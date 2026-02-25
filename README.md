@@ -2,7 +2,7 @@
 <body>
 
 <header>
-    <h1>Your Name</h1>
+    <h1>Keabetswe Mpye</h1>
     <p>Cloud | DevOps | Software Developer</p>
 </header>
 
@@ -16,7 +16,7 @@
     <div class="card">
         <h2>About Me</h2>
         <p>
-            I'm passionate about cloud computing, DevOps, and building scalable systems.
+            I'm passionate about Database analysis.
             I enjoy solving real-world problems using technology.
         </p>
     </div>
