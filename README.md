@@ -1,8 +1,8 @@
 <body>
 
 <header>
-    <h1>Your Name</h1>
-    <p>Cloud | DevOps | Software Developer</p>
+    <h1>Keabetswe Mpye</h1>
+    <p>Cloud Development | Gaming | Database Analysis</p>
 </header>
 <nav>
     <a href="#about">About</a>
